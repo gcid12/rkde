@@ -47,7 +47,7 @@ margin: 0px;
 .box1{
 padding:30px 40px 5px 40px; 
 width:100%; 
-background-color:rgba(245,132,31, 0.5);
+background-color:rgba(0,0,0, 0.4);
 margin-right:10px; 
 border-radius: 20px;
 border: 1px solid #FFF;
@@ -55,12 +55,12 @@ border: 1px solid #FFF;
 }
 .box-text{
 	text-shadow: 2px 1px 5px #000;
-	font-size:1.3em; 
+	font-size:1em; 
 	line-height:1em;
 	color:white;
 	
 }
 
-
+.dense{line-height:1.1em; font-size:1.2em;}
 
 
